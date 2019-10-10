@@ -21,7 +21,7 @@ Polski,Jezyk angielski,Matematyka,90,80,50,0,0,4,6,10
 Matematyka,Informatyka,Jezyk angielski,50,100,70,0,0,7,1,8
 Matematyka,Jezyk angielski,Fizyka,80,90,70,0,0,5,3,7
 Matematyka,Biologia,Biologia,80,80,80,2,0,5,8,8
-Matematyka,Informatyka,Informatyka,85,3,90,3,2,7,2,9
+Matematyka,Informatyka,Informatyka,85,30,90,3,2,7,2,9
 Jezyk angielski,,,70,nan,nan,0,0,7,3,6
 Informatyka,,,80,nan,nan,1,1,8,1,2
 Matematyka,Fizyka,Jezyk angielski,75,75,60,0,0,5,3,7
@@ -62,7 +62,7 @@ Biologia,Chemia,Matematyka,80,90,90,3,0,6,3,4
 Polski,Geografia,,70,50,nan,0,1,6,2,4
 Polski,Biologia,Jezyk angielski,75,78,59,0,0,7,3,4
 Biologia,Chemia,Jezyk angielski,80,90,80,0,0,7,2,5
-Matematyka,Fizyka,Informatyka,6,6,6,0,0,7,1,1
+Matematyka,Fizyka,Informatyka,60,60,60,0,0,7,1,1
 Biologia,Polski,Jezyk angielski,65,75,95,0,0,6,4,8
 Matematyka,Fizyka,Jezyk angielski,65,50,77,1,0,6,2,5
 Jezyk angielski,Historia,Polski,70,50,60,2,0,5,1,10
@@ -113,9 +113,9 @@ Biologia,Chemia,Jezyk angielski,80,80,80,0,0,6,1,3
 Geografia,Polski,Jezyk angielski,65,70,100,0,0,7,2,5
 Matematyka,Jezyk angielski,Geografia,40,100,75,0,0,6,1,5
 Jezyk obcy inny niz angielski,Jezyk angielski,Geografia,89,90,60,3,0,3,2,10
-Matematyka,Jezyk angielski,,3,5,nan,0,0,7,1,6
-Matematyka,Informatyka,,5,6,nan,0,0,6,1,8
-Polski,Wos,Historia,4,5,5,1,0,7,1,3
+Matematyka,Jezyk angielski,,30,50,nan,0,0,7,1,6
+Matematyka,Informatyka,,50,60,nan,0,0,6,1,8
+Polski,Wos,Historia,40,50,50,1,0,7,1,3
 Matematyka,Informatyka,Fizyka,90,0,90,0,0,8,4,6
 Biologia,Chemia,Jezyk angielski,80,70,90,0,0,7,1,10
 Polski,Jezyk angielski,Geografia,60,100,70,2,1,6,2,2
@@ -126,7 +126,7 @@ Biologia,Chemia,Jezyk angielski,80,80,100,0,0,5,3,2
 Informatyka,Informatyka,Jezyk angielski,60,70,70,1,1,5,2,10
 Biologia,Chemia,,85,90,nan,2,0,7,6,5
 Matematyka,Fizyka,Jezyk angielski,60,40,80,0,1,6,1,4
-Matematyka,Fizyka,Jezyk obcy inny niz angielski,4,3,100,4,0,7,2,2
+Matematyka,Fizyka,Jezyk obcy inny niz angielski,40,30,100,4,0,7,2,2
 Matematyka,Fizyka,Jezyk angielski,80,75,35,0,0,6,2,5
 Jezyk angielski,Jezyk angielski,Jezyk angielski,90,90,90,0,1,7,1,8
 Matematyka,Biologia,Chemia,75,90,95,0,0,7,3,5
@@ -137,20 +137,20 @@ Biologia,Chemia,Matematyka,85,85,50,2,0,5,6,10
 Polski,Wos,Jezyk angielski,50,50,50,0,0,7,1,5
 Matematyka,Geografia,Jezyk angielski,70,60,70,0,0,8,2,4
 Geografia,Matematyka,Jezyk angielski,80,70,100,0,0,5,1,1
-Matematyka,Fizyka,Jezyk angielski,70,2,3,0,1,7,2,8
+Matematyka,Fizyka,Jezyk angielski,70,20,30,0,1,7,2,8
 Matematyka,Jezyk angielski,Geografia,70,100,80,1,0,7,2,7
 Matematyka,Informatyka,Jezyk angielski,88,100,78,0,0,7,1,1
 Matematyka,Informatyka,Jezyk angielski,30,30,100,0,1,7,1,10
 Matematyka,Informatyka,Jezyk angielski,100,100,100,5 lub wiecej,0,4,2,1
 Jezyk angielski,Polski,,100,70,nan,2,0,4,3,8
 Jezyk angielski,Matematyka,Polski,100,40,60,0,0,5,1,5
-Matematyka,Jezyk angielski,,5,6,nan,1,0,5,1,5
+Matematyka,Jezyk angielski,,50,60,nan,1,0,5,1,5
 Geografia,,,100,nan,nan,1,0,6,1,5
 Biologia,Geografia,Jezyk angielski,30,60,60,1,1,7,2,6
 Matematyka,Fizyka,Jezyk angielski,50,30,90,0,1,6,1,8
 Biologia,Chemia,Jezyk angielski,90,90,80,1,0,6,5,8
 Biologia,Chemia,Jezyk angielski,90,90,100,0,0,7,6,7
-Matematyka,Geografia,Wos,2,3,2,1,0,6,1,9
+Matematyka,Geografia,Wos,20,30,20,1,0,6,1,9
 Biologia,Jezyk angielski,,50,100,nan,1,0,7,1,2
 Geografia,Jezyk angielski,Matematyka,50,80,40,1,1,6,1,1
 Biologia,Chemia,Jezyk angielski,75,70,100,0,0,5,6,4
@@ -167,7 +167,7 @@ Matematyka,Biologia,Jezyk angielski,40,70,100,0,0,6,1,10
 Matematyka,Fizyka,Jezyk angielski,70,80,95,1,0,6,1,7
 Matematyka,Biologia,Chemia,85,80,85,0,0,6,2,6
 Matematyka,Informatyka,Jezyk angielski,80,30,90,4,0,5,1,3
-Biologia,Chemia,Matematyka,5,5,5,0,0,5,1,9
+Biologia,Chemia,Matematyka,50,50,50,0,0,5,1,9
 Matematyka,Fizyka,Jezyk angielski,85,80,95,0,0,6,1,7
 Polski,Jezyk obcy inny niz angielski,Jezyk angielski,80,90,100,1,0,6,2,5
 Jezyk angielski,,,60,nan,nan,2,0,6,1,1
@@ -176,7 +176,7 @@ Matematyka,Informatyka,Fizyka,85,80,50,0,0,7,2,1
 Jezyk angielski,Informatyka,,70,60,nan,0,0,6,2,2
 Biologia,Chemia,Jezyk angielski,60,nan,40,0,0,6,1,1
 Historia,Polski,Jezyk angielski,70,70,70,1,0,5,3,9
-Matematyka,Informatyka,Fizyka,6,5,6,0,0,7,1,5
+Matematyka,Informatyka,Fizyka,60,50,60,0,0,7,1,5
 Matematyka,Informatyka,Jezyk angielski,21,37,69,1,1,6,1,5
 Jezyk angielski,,,100,nan,nan,1,0,6,1,1
 Geografia,Jezyk angielski,Jezyk obcy inny niz angielski,80,90,60,0,1,6,2,8
@@ -205,8 +205,8 @@ Biologia,Chemia,Jezyk angielski,90,90,100,0,0,7,3,5
 Biologia,Chemia,Jezyk angielski,90,90,98,1,0,6,6,4
 Biologia,Chemia,Jezyk angielski,100,90,98,0,0,6,6,6
 Chemia,Biologia,Jezyk angielski,70,70,90,3,1,6,4,7
-Biologia,Chemia,Jezyk angielski,5,5,5,0,0,8,2,4
-Geografia,Historia,Polski,5,5,5,0,1,7,2,6
+Biologia,Chemia,Jezyk angielski,50,50,50,0,0,8,2,4
+Geografia,Historia,Polski,50,50,50,0,1,7,2,6
 Wos,Polski,Jezyk angielski,70,80,90,1,2,4,3,5
 Matematyka,Polski,Geografia,50,60,70,3,0,7,4,5
 Biologia,Chemia,Jezyk angielski,85,85,95,1,0,7,4,5
@@ -227,34 +227,34 @@ Polski,Historia,Jezyk angielski,80,70,90,4,2,4,2,10
 Jezyk angielski,,,100,nan,nan,1,0,6,3,8
 Polski,Jezyk angielski,Geografia,85,90,85,1,1,6,2,5
 Polski,Historia,Jezyk angielski,90,90,95,1,1,6,1,9
-Matematyka,Geografia,Jezyk angielski,70,3,4,2,0,6,5,5
+Matematyka,Geografia,Jezyk angielski,70,30,40,2,0,6,5,5
 Matematyka,Jezyk angielski,Geografia,70,90,60,1,0,5,3,7
 Biologia,Polski,Jezyk angielski,75,90,95,0,0,5,6,8
 Biologia,Chemia,Jezyk angielski,80,80,100,0,0,5,3,8
-Matematyka,Fizyka,Jezyk angielski,6,6,7,0,0,7,10,7
+Matematyka,Fizyka,Jezyk angielski,60,60,70,0,0,7,10,7
 Wos,,,30,nan,nan,1,0,7,1,8
 Geografia,Jezyk angielski,,70,90,nan,2,2,6,3,10
 Matematyka,Biologia,Jezyk angielski,60,60,60,2,0,5,10,10
 Matematyka,Fizyka,Jezyk angielski,80,70,100,2,0,6,2,8
-Biologia,Chemia,Jezyk angielski,6,6,6,2,0,5,5,8
+Biologia,Chemia,Jezyk angielski,60,60,60,2,0,5,5,8
 Biologia,Chemia,Jezyk angielski,85,85,85,2,0,5,9,10
 Matematyka,Fizyka,Jezyk angielski,80,60,60,1,0,8,1,3
 Biologia,Chemia,Matematyka,100,100,100,0,0,7,4,8
 Matematyka,Geografia,Jezyk angielski,70,80,85,1,0,5,3,6
-Matematyka,Biologia,Polski,80+,80+,80+,1,1,6,3,6
+Matematyka,Biologia,Polski,80,80,80,1,1,6,3,6
 Fizyka,Matematyka,Jezyk angielski,70,80,95,0,0,6,3,7
 Matematyka,Fizyka,Jezyk angielski,80,80,100,1,0,6,2,4
 Biologia,Chemia,Jezyk angielski,90,75,90,0,1,7,2,5
-Jezyk angielski,Polski,Historia,6,6,5,1,0,6,2,10
+Jezyk angielski,Polski,Historia,60,60,50,1,0,6,2,10
 Matematyka,Geografia,Jezyk angielski,70,70,95,1,0,6,3,6
 Geografia,Matematyka,Jezyk angielski,80,80,97,1,0,7,3,2
 Matematyka,Jezyk angielski,,65,55,nan,0,1,7,2,7
 Matematyka,Fizyka,Jezyk angielski,90,90,100,2,0,6,4,6
 Jezyk angielski,,,80,nan,nan,0,1,6,1,10
-Matematyka,Fizyka,Jezyk angielski,5,4,5,2,0,6,7,5
+Matematyka,Fizyka,Jezyk angielski,50,40,50,2,0,6,7,5
 Matematyka,Informatyka,Jezyk angielski,70,60,70,1,0,7,1,6
 Polski,Jezyk angielski,,80,80,nan,0,0,6,4,9
-Wos,Historia,Polski,5,5,6,2,0,6,6,6
+Wos,Historia,Polski,50,50,60,2,0,6,6,6
 Matematyka,Biologia,Chemia,70,80,80,2,0,4,4,6
 Historia,Polski,Jezyk angielski,70,80,100,2,1,3,5,10
 Matematyka,Biologia,Jezyk angielski,90,60,80,0,0,8,4,4
