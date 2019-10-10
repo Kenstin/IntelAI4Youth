@@ -15,10 +15,6 @@ df = df[['subject_1',
          'stress_level']]
 
 
-def is_nan(num):
-    return num != num
-
-
 def get_rid_of_percent_symbol(x):  # some inputs were e.g '90%', and we need the value rather than some percentage
     x = str(x)
     if x[len(x)-1] == '%':
