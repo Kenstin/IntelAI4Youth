@@ -1,0 +1,274 @@
+Sygnatura czasowa,subject_1,subject_2,subject_3,score_1,score_2,score_3,coffees,energy_drinks,stress_level,hours_of_sleep,study_time
+2019-10-08 15:37:23,Matematyka,Informatyka,Jezyk angielski,90,90,90,1,0,7,7,2
+2019-10-08 15:39:31,Informatyka,Jezyk angielski,,80,80,,1,0,4,8,1
+2019-10-08 15:44:03,Informatyka,Matematyka,Jezyk angielski,90,70,70,0,2,1,5,3
+2019-10-08 15:46:29,Matematyka,Informatyka,Jezyk angielski,80,100,100,1,1,6,5,1
+2019-10-08 15:46:58,Matematyka,Informatyka,Jezyk angielski,40,100,100,0,0,3,6,1
+2019-10-08 15:48:31,Matematyka,Informatyka,Jezyk angielski,80,95,95,0,0,2,6,4
+2019-10-08 15:49:41,Matematyka,Informatyka,Jezyk angielski,90,90,100,1,2,3,6,2
+2019-10-08 15:50:12,Matematyka,Informatyka,Jezyk angielski,60,60,80,2,0,2,8,2
+2019-10-08 15:51:07,Matematyka,Informatyka,Jezyk angielski,80,90,90,0,0,9,5,1
+2019-10-08 15:51:58,Matematyka,Informatyka,Jezyk angielski,60,90,10,0,1,5,6,2
+2019-10-08 15:53:00,Matematyka,Fizyka,Jezyk angielski,75,75,95,1,0,3,7,3
+2019-10-08 15:55:29,Matematyka,Informatyka,Jezyk angielski,80,80,95,0,0,8,6,4
+2019-10-08 15:58:31,Informatyka,Matematyka,Fizyka,85,85,70,0,0,2,6,2
+2019-10-08 15:59:00,Matematyka,Historia,Jezyk angielski,80%,70%,100%,0,0,9,7,5
+2019-10-08 15:59:41,Biologia,Chemia,Jezyk angielski,80,90,85,1,1,1,5,3
+2019-10-08 16:00:05,Biologia,Chemia,Jezyk obcy inny niz angielski,85,85,90,2,0,6,7,5
+2019-10-08 16:01:40,Matematyka,Jezyk angielski,Polski,80-100,100,80,0,0,3,5,8
+2019-10-08 16:01:55,Matematyka,Informatyka,Fizyka,60,57,47,0,0,1,6,1
+2019-10-08 16:02:46,Polski,Jezyk angielski,Matematyka,90,80,50,0,0,10,4,6
+2019-10-08 16:03:08,Matematyka,Informatyka,Jezyk angielski,50,100,70,0,0,8,7,1
+2019-10-08 16:04:46,Matematyka,Jezyk angielski,Fizyka,80,90,70,0,0,7,5,3
+2019-10-08 16:04:47,Matematyka,Biologia,Biologia,80,80,80,2,0,8,5,8
+2019-10-08 16:05:22,Matematyka,Informatyka,Informatyka,85,70/80,90,3,2,9,7,2
+2019-10-08 16:05:43,Jezyk angielski,,,70,,,0,0,6,7,3
+2019-10-08 16:05:55,Informatyka,,,80,,,1,1,2,8,1
+2019-10-08 16:06:15,Matematyka,Fizyka,Jezyk angielski,75,75,60,0,0,7,5,3
+2019-10-08 16:07:48,Matematyka,Jezyk angielski,Fizyka,50,50,40,0,0,1,9,2
+2019-10-08 16:14:12,Historia,Polski,Jezyk angielski,95%,95%,100%,2,1,8,6,3
+2019-10-08 16:15:34,Matematyka,Informatyka,Jezyk angielski,90%,50%,90%,1,0,5,6,4
+2019-10-08 16:17:07,Jezyk angielski,,,60%,,,1,2,5,7,1
+2019-10-08 16:17:25,Matematyka,Jezyk angielski,Wos,80%,90%,60%,0,0,2,6,1
+2019-10-08 16:20:47,Polski,Jezyk angielski,,90,90,,0,0,7,7,1
+2019-10-08 16:22:31,Matematyka,Fizyka,Jezyk angielski,80%,80%,95%,0,0,4,5,2
+2019-10-08 16:22:33,Matematyka,Matematyka,Matematyka,100,100,100,2,1,1,5,10
+2019-10-08 16:22:34,Matematyka,Informatyka,Fizyka,90%,90%,90%,0,0,3,6,3
+2019-10-08 16:24:33,Polski,Historia,Jezyk angielski,80%,80%,80%,0,0,10,7,1
+2019-10-08 16:27:15,Historia,Jezyk angielski,Polski,70%,100%,70%,0,0,10,6,6
+2019-10-08 16:27:49,Jezyk obcy inny niz angielski,Jezyk angielski,Geografia,60,80%,75,1,0,2,8,1
+2019-10-08 16:27:55,Jezyk angielski,Wos,Polski,80,60,60,0,0,10,8,7
+2019-10-08 16:28:38,Matematyka,Informatyka,Jezyk angielski,70,100,85,0,0,1,7,3
+2019-10-08 16:29:36,Matematyka,Jezyk angielski,Fizyka,75,60,40,1,0,2,7,3
+2019-10-08 16:31:46,Biologia,Chemia,Jezyk angielski,80%,85%,95%,2,0,7,5,5
+2019-10-08 16:31:55,Matematyka,Jezyk angielski,Polski,100%,100%,100%,1,0,3,4,7
+2019-10-08 16:32:54,Jezyk angielski,,,30%,,,0,2,10,6,1
+2019-10-08 16:33:37,Historia,Polski,Jezyk angielski,65,80,70,1,0,8,4,3
+2019-10-08 16:33:50,Biologia,Chemia,,100,100,,1,2,9,6,5
+2019-10-08 16:34:14,Matematyka,Jezyk angielski,Informatyka,100,100,100,0,0,1,1,10
+2019-10-08 16:34:23,Matematyka,Jezyk angielski,,70,90,,0,0,3,7,1
+2019-10-08 16:34:53,Polski,Wos,Geografia,85%,45%,70%,0,0,7,6,5
+2019-10-08 16:35:55,Geografia,Polski,,95,95,,0,0,6,7,1
+2019-10-08 16:36:34,Jezyk angielski,Polski,,100%,100%,,5 lub wiecej,0,1,5,1
+2019-10-08 16:37:36,Jezyk obcy inny niz angielski,Jezyk angielski,Geografia,,90%,60%,0,1,10,9,3
+2019-10-08 16:37:41,Matematyka,Historia,Jezyk obcy inny niz angielski,50,65,50,2,0,7,5,2
+2019-10-08 16:38:55,Matematyka,Jezyk angielski,Geografia,70,90,70,0,0,5,6,2
+2019-10-08 16:41:03,Biologia,Chemia,Jezyk angielski,80%,80%,80%,1,0,5,5,4
+2019-10-08 16:42:05,Matematyka,Jezyk angielski,Geografia,60,85,60%,0,0,10,6,5
+2019-10-08 16:49:13,Matematyka,Fizyka,Jezyk angielski,70,,,0,0,6,8,3
+2019-10-08 16:49:34,Matematyka,Fizyka,Jezyk angielski,60-80%,60%,100%,0,1,9,4,2
+2019-10-08 16:50:56,Matematyka,Fizyka,Jezyk angielski,80%,80%,60%,1,0,4,6,3
+2019-10-08 16:52:49,Biologia,Chemia,Matematyka,80,90,90,3,0,4,6,3
+2019-10-08 16:53:50,Polski,Geografia,,70,50,,0,1,4,6,2
+2019-10-08 16:58:10,Polski,Biologia,Jezyk angielski,75,78,59,0,0,4,7,3
+2019-10-08 17:00:59,Biologia,Chemia,Jezyk angielski,80%,90%,80%,0,0,5,7,2
+2019-10-08 17:07:44,Matematyka,Fizyka,Informatyka,6,6,6,0,0,1,7,1
+2019-10-08 17:09:30,Biologia,Polski,Jezyk angielski,60-70,70-80,90-100,0,0,8,6,4
+2019-10-08 17:11:13,Matematyka,Fizyka,Jezyk angielski,65%,50%,75-80%,1,0,5,6,2
+2019-10-08 17:11:17,Jezyk angielski,Historia,Polski,70,50,60,2,0,10,5,1
+2019-10-08 17:11:48,Matematyka,Jezyk angielski,Geografia,70%,95%,80%,2,0,5,6,3
+2019-10-08 17:14:35,Polski,Jezyk angielski,Jezyk obcy inny niz angielski,90,90,60,0,0,1,6,2
+2019-10-08 17:17:12,Matematyka,Jezyk angielski,Geografia,60,95,70,0,0,8,6,4
+2019-10-08 17:17:31,Matematyka,Polski,Jezyk angielski,35%,60%,100%,1,1,10,7,2
+2019-10-08 17:18:22,Polski,Wos,Geografia,90%,80%,95%,0,0,5,6,6
+2019-10-08 17:18:35,Biologia,Chemia,Jezyk angielski,80,80,100,1,0,10,6,5
+2019-10-08 17:20:08,Matematyka,Informatyka,Jezyk angielski,90,90,70,0,0,3,5,1
+2019-10-08 17:20:36,Historia,Jezyk angielski,Polski,80,95,65,2,0,4,7,2
+2019-10-08 17:22:55,Biologia,Polski,Jezyk angielski,40%,90%,100%,2,0,4,5,5
+2019-10-08 17:23:29,Matematyka,Matematyka,Matematyka,95,96,97,5 lub wiecej,5 lub wiecej,10,1,10
+2019-10-08 17:23:44,Matematyka,Fizyka,Jezyk angielski,80,50,80,1,0,2,7,1
+2019-10-08 17:27:33,Matematyka,Fizyka,Jezyk angielski,80,90,90,0,0,2,8,1
+2019-10-08 17:28:26,Polski,Historia,Jezyk angielski,100,70,90,0,0,1,3,1
+2019-10-08 17:31:49,Polski,Jezyk angielski,,80%,100%,,1,0,4,6,2
+2019-10-08 17:34:15,Chemia,Historia,Wos,50,70,80,1,3,10,4,3
+2019-10-08 17:45:40,Matematyka,Fizyka,Jezyk angielski,80%,60%,70%,0,0,6,5,2
+2019-10-08 17:49:15,Biologia,Chemia,Jezyk angielski,90,100,100,1,0,7,6,6
+2019-10-08 17:51:00,Biologia,Jezyk angielski,Polski,80%,80-90%,30,0,0,7,8,3
+2019-10-08 17:51:19,Matematyka,Geografia,Jezyk angielski,65%,70%,100%,0,0,2,7,2
+2019-10-08 17:52:33,Matematyka,Fizyka,Jezyk angielski,60-70,70-80,80-95,0,0,4,7,2
+2019-10-08 17:53:25,Matematyka,Informatyka,Jezyk angielski,70,70,80,0,0,3,7,3
+2019-10-08 18:00:20,Chemia,Biologia,Jezyk angielski,80,85,90,3,1,8,6,6
+2019-10-08 18:01:35,Jezyk angielski,,,100,,,0,1,1,6,1
+2019-10-08 18:02:54,Matematyka,Informatyka,Jezyk angielski,50,100%,60,2,0,5,6,1
+2019-10-08 18:04:34,Jezyk angielski,Matematyka,,50,70,,3,0,10,5,4
+2019-10-08 18:09:16,Matematyka,Fizyka,Jezyk angielski,80%,80%,95%,0,0,8,7,5
+2019-10-08 18:34:37,Jezyk angielski,Matematyka,Informatyka,100,60,80,3,1,10,5,5
+2019-10-08 18:42:09,Biologia,Chemia,Jezyk angielski,70,93,80,1,0,4,5,2
+2019-10-08 18:51:16,Biologia,Chemia,Jezyk angielski,100%,100%,100%,4,0,7,6,6
+2019-10-08 18:59:43,Matematyka,Fizyka,Jezyk angielski,85,70,82,0,0,4,6,2
+2019-10-08 18:59:57,Biologia,Polski,Jezyk angielski,60,70,100,0,1,4,7,2
+2019-10-08 19:00:28,Biologia,Chemia,Jezyk angielski,75%,85%,90%,0,0,10,4,4
+2019-10-08 19:01:38,Matematyka,Fizyka,Jezyk angielski,70,50,90,1,0,5,6,6
+2019-10-08 19:05:46,Biologia,Chemia,Jezyk angielski,90,90,90,1,0,10,6,4
+2019-10-08 19:08:52,Jezyk angielski,Polski,,90%,70%,,1,0,4,7,4
+2019-10-08 19:10:00,Polski,Wos,,80,70,,2,3,7,5,7
+2019-10-08 19:14:03,Biologia,Chemia,Jezyk angielski,85%,85%,85%,2,0,8,6,4
+2019-10-08 19:16:46,Matematyka,Jezyk angielski,Fizyka,80,95,70,0,0,10,6,3
+2019-10-08 19:22:21,Matematyka,Geografia,Fizyka,40,40,40,5 lub wiecej,5 lub wiecej,10,4,6
+2019-10-08 19:23:32,Matematyka,Fizyka,Jezyk angielski,70%,50%,90%,0,0,7,6,8
+2019-10-08 19:23:33,Polski,Geografia,Informatyka,85,50,30,1,0,4,6,4
+2019-10-08 19:24:16,Historia,Jezyk angielski,Wos,70%,90%,60%,3,0,4,7,1
+2019-10-08 19:26:09,Matematyka,Geografia,,80%,70-80%,,1,3,3,5,3
+2019-10-08 19:26:30,Biologia,Chemia,Jezyk angielski,80%,80%,80%,0,0,3,6,1
+2019-10-08 19:26:36,Geografia,Polski,Jezyk angielski,65,70,100,0,0,5,7,2
+2019-10-08 19:27:51,Matematyka,Jezyk angielski,Geografia,40,100,75,0,0,5,6,1
+2019-10-08 19:33:12,Jezyk obcy inny niz angielski,Jezyk angielski,Geografia,89%,90%,60%,3,0,10,3,2
+2019-10-08 19:33:29,Matematyka,Jezyk angielski,,3,5,,0,0,6,7,1
+2019-10-08 19:33:55,Matematyka,Informatyka,,5,6,,0,0,8,6,1
+2019-10-08 19:38:22,Polski,Wos,Historia,4,5,5,1,0,3,7,1
+2019-10-08 19:39:06,Matematyka,Informatyka,Fizyka,90,0,90,0,0,6,8,4
+2019-10-08 19:46:38,Biologia,Chemia,Jezyk angielski,80%,70%,90%,0,0,10,7,1
+2019-10-08 19:49:18,Polski,Jezyk angielski,Geografia,60%,100%,70%,2,1,2,6,2
+2019-10-08 19:51:45,Matematyka,Geografia,Jezyk angielski,60,70,90,1,0,5,7,1
+2019-10-08 19:52:25,Wos,Geografia,Polski,70,80,80,0,0,4,7,2
+2019-10-08 19:53:19,Biologia,Geografia,Jezyk angielski,75%,85%,100%,0,0,7,7,2
+2019-10-08 19:54:53,Biologia,Chemia,Jezyk angielski,80%,80%,100%,0,0,2,5,3
+2019-10-08 19:58:27,Informatyka,Informatyka,Jezyk angielski,60,70,70,1,1,10,5,2
+2019-10-08 20:00:54,Biologia,Chemia,,85,90,,2,0,5,7,6
+2019-10-08 20:06:41,Matematyka,Fizyka,Jezyk angielski,60,40,80,0,1,4,6,1
+2019-10-08 20:15:10,Matematyka,Fizyka,Jezyk obcy inny niz angielski,90/100%,60/75%,100%,4,0,2,7,2
+2019-10-08 20:16:46,Matematyka,Fizyka,Jezyk angielski,80%,75%,30-40%,0,0,5,6,2
+2019-10-08 20:19:52,Jezyk angielski,Jezyk angielski,Jezyk angielski,90,90,90,0,1,8,7,1
+2019-10-08 20:20:19,Matematyka,Biologia,Chemia,70-80%,85-95%,95%,0,0,5,7,3
+2019-10-08 20:28:13,Informatyka,Matematyka,Jezyk angielski,70%,85%,95%,2,2,3,4,1
+2019-10-08 20:30:03,Biologia,Polski,Jezyk obcy inny niz angielski,80,90,100,0,0,1,8,1
+2019-10-08 20:36:33,Matematyka,Chemia,Biologia,100,100,85,1,1,4,7,4
+2019-10-08 20:37:14,Biologia,Chemia,Matematyka,85%,85%,50%,2,0,10,5,6
+2019-10-08 20:43:44,Polski,Wos,Jezyk angielski,50,50,50,0,0,5,7,1
+2019-10-08 20:47:21,Matematyka,Geografia,Jezyk angielski,70%,60%,70%,0,0,4,8,2
+2019-10-08 20:48:56,Geografia,Matematyka,Jezyk angielski,80%,70%,100%,0,0,1,5,1
+2019-10-08 20:56:48,Matematyka,Fizyka,Jezyk angielski,70%,40/50%,70/80%,0,1,8,7,2
+2019-10-08 21:04:09,Matematyka,Jezyk angielski,Geografia,70,100,80,1,0,7,7,2
+2019-10-08 21:05:54,Matematyka,Informatyka,Jezyk angielski,88%,100%,78%,0,0,1,7,1
+2019-10-08 21:09:56,Matematyka,Informatyka,Jezyk angielski,30,30,100,0,1,10,7,1
+2019-10-08 21:10:18,Matematyka,Informatyka,Jezyk angielski,100,100,100,5 lub wiecej,0,1,4,2
+2019-10-08 21:12:40,Jezyk angielski,Polski,,100,70,,2,0,8,4,3
+2019-10-08 21:12:52,Jezyk angielski,Matematyka,Polski,100,40,60,0,0,5,5,1
+2019-10-08 21:13:19,Matematyka,Jezyk angielski,,5,6,,1,0,5,5,1
+2019-10-08 21:21:05,Geografia,,,100,,,1,0,5,6,1
+2019-10-08 21:24:59,Biologia,Geografia,Jezyk angielski,30%,60%,60%,1,1,6,7,2
+2019-10-08 21:28:34,Matematyka,Fizyka,Jezyk angielski,50,30,90,0,1,8,6,1
+2019-10-08 22:55:31,Biologia,Chemia,Jezyk angielski,90,90,80,1,0,8,6,5
+2019-10-08 23:07:19,Biologia,Chemia,Jezyk angielski,90,90,100,0,0,7,7,6
+2019-10-08 23:19:16,Matematyka,Geografia,Wos,2,3,2,1,0,9,6,1
+2019-10-08 23:23:03,Biologia,Jezyk angielski,,50,100,,1,0,2,7,1
+2019-10-08 23:30:13,Geografia,Jezyk angielski,Matematyka,50,80,40,1,1,1,6,1
+2019-10-08 23:59:53,Biologia,Chemia,Jezyk angielski,75%,70%,100%,0,0,4,5,6
+2019-10-09 00:03:32,Matematyka,Informatyka,Fizyka,70,70,70,1,0,4,5,4
+2019-10-09 06:54:47,Biologia,Chemia,Polski,80%,65%,90%,0,0,8,6,4
+2019-10-09 06:56:18,Matematyka,Fizyka,Jezyk angielski,60,60,85,0,0,5,6,2
+2019-10-09 07:05:49,Jezyk angielski,Geografia,,80,60,,2,0,3,6,1
+2019-10-09 07:12:52,Matematyka,Informatyka,Historia,65%,100%,100%,0,0,10,10,5
+2019-10-09 07:28:49,Geografia,Jezyk angielski,,50%,65%,,0,0,9,7,3
+2019-10-09 08:23:50,Matematyka,Jezyk angielski,Polski,70,85,70,0,1,7,7,4
+2019-10-09 08:28:32,Matematyka,Geografia,Jezyk angielski,80%,80%,100%,1,0,6,5,3
+2019-10-09 08:44:06,Matematyka,Jezyk angielski,,80,100,,0,0,1,7,1
+2019-10-09 08:46:45,Matematyka,Biologia,Jezyk angielski,40%,70%,100%,0,0,10,6,1
+2019-10-09 09:22:15,Matematyka,Fizyka,Jezyk angielski,70%,80%,95%,1,0,7,6,1
+2019-10-09 09:28:38,Matematyka,Biologia,Chemia,85,80,85,0,0,6,6,2
+2019-10-09 09:29:58,Matematyka,Informatyka,Jezyk angielski,80%,30%,90%,4,0,3,5,1
+2019-10-09 09:37:15,Biologia,Chemia,Matematyka,5,5,5,0,0,9,5,1
+2019-10-09 09:38:21,Matematyka,Fizyka,Jezyk angielski,85,80,95,0,0,7,6,1
+2019-10-09 09:54:14,Polski,Jezyk obcy inny niz angielski,Jezyk angielski,80,90,100,1,0,5,6,2
+2019-10-09 10:44:29,Jezyk angielski,,,60%,,,2,0,1,6,1
+2019-10-09 10:45:57,Jezyk angielski,,Matematyka,60%,,100%,1,0,5,6,1
+2019-10-09 11:02:52,Matematyka,Informatyka,Fizyka,85%,80%,50%,0,0,1,7,2
+2019-10-09 11:33:51,Jezyk angielski,Informatyka,,70,60,,0,0,2,6,2
+2019-10-09 11:37:33,Biologia,Chemia,Jezyk angielski,60%,,40%,0,0,1,6,1
+2019-10-09 12:00:03,Historia,Polski,Jezyk angielski,70,70,70,1,0,9,5,3
+2019-10-09 14:42:17,Matematyka,Informatyka,Fizyka,6,5,6,0,0,5,7,1
+2019-10-09 14:47:20,Matematyka,Informatyka,Jezyk angielski,21,37,69,1,1,5,6,1
+2019-10-09 15:11:00,Jezyk angielski,,,100,,,1,0,1,6,1
+2019-10-09 15:15:51,Geografia,Jezyk angielski,Jezyk obcy inny niz angielski,80,90,60,0,1,8,6,2
+2019-10-09 15:40:36,Historia,Geografia,Wos,60%,70%,80%,0,0,10,6,1
+2019-10-09 16:14:57,Chemia,Biologia,Jezyk obcy inny niz angielski,60,70,80,0,0,1,1,1
+2019-10-09 17:51:41,Biologia,Chemia,Jezyk angielski,85%,70%,90%,1,0,9,7,3
+2019-10-09 18:57:49,Matematyka,Fizyka,Jezyk angielski,75,75,80,0,0,9,6,8
+2019-10-09 19:39:05,Biologia,Chemia,Jezyk angielski,90,90,100,0,0,7,7,6
+2019-10-09 19:50:43,Matematyka,Jezyk angielski,Geografia,60%,70%,75-80%,2,3,7,8,1
+2019-10-09 19:54:16,Jezyk obcy inny niz angielski,Polski,Geografia,70,90,80,1,1,8,4,5
+2019-10-09 19:56:13,Geografia,Jezyk angielski,,90,50,,2,0,7,4,1
+2019-10-09 19:56:13,Jezyk obcy inny niz angielski,Historia,,50%,15%,,0,0,5,6,2
+2019-10-09 19:59:11,Geografia,Jezyk angielski,,30,80,,0,0,8,7,2
+2019-10-09 19:59:22,Jezyk angielski,,,85,,,0,1,8,7,1
+2019-10-09 20:04:59,Jezyk angielski,Jezyk obcy inny niz angielski,Geografia,100,70,70,0,1,8,7,2
+2019-10-09 20:06:07,Wos,Biologia,,50,50,,1,1,5,6,1
+2019-10-09 20:09:19,Matematyka,Polski,Jezyk angielski,80,90,90,0,0,10,7,2
+2019-10-09 20:10:53,Matematyka,Biologia,Chemia,70%,80%,90%,0,0,6,7,1
+2019-10-09 20:11:34,Geografia,Polski,,40,50,,1,1,10,6,1
+2019-10-09 20:14:55,Historia,Polski,,70,90,,0,0,9,5,6
+2019-10-09 20:18:01,Historia,Polski,Jezyk angielski,80,90,100,2,0,7,5,2
+2019-10-09 20:20:27,Jezyk angielski,Chemia,,100%,80%,,0,0,5,6,2
+2019-10-09 20:21:00,Biologia,Chemia,,90,85,,0,0,3,8,5
+2019-10-09 20:22:43,Chemia,Biologia,Jezyk angielski,80%,100%,100%,2,0,5,7,2
+2019-10-09 20:27:16,Biologia,Chemia,Jezyk angielski,90%,90%,100%,0,0,5,7,3
+2019-10-09 20:29:02,Biologia,Chemia,Jezyk angielski,90,90,98,1,0,4,6,6
+2019-10-09 20:29:22,Biologia,Chemia,Jezyk angielski,100%,90%,98%,0,0,6,6,6
+2019-10-09 20:30:24,Chemia,Biologia,Jezyk angielski,70,70,90,3,1,7,6,4
+2019-10-09 20:31:51,Biologia,Chemia,Jezyk angielski,5,5,5,0,0,4,8,2
+2019-10-09 20:33:54,Geografia,Historia,Polski,5,5,5,0,1,6,7,2
+2019-10-09 20:35:42,Wos,Polski,Jezyk angielski,70%,80%,90%,1,2,5,4,3
+2019-10-09 20:36:49,Matematyka,Polski,Geografia,50%,60%,70%,3,0,5,7,4
+2019-10-09 20:37:07,Biologia,Chemia,Jezyk angielski,85%,85%,95%,1,0,5,7,4
+2019-10-09 20:39:46,Biologia,Chemia,Jezyk angielski,90%,90%,100%,2,0,4,5,4
+2019-10-09 20:42:52,Biologia,Chemia,Jezyk angielski,75,60-70,85,4,1,8,4,6
+2019-10-09 20:43:52,Matematyka,Fizyka,Jezyk angielski,80,80,90,0,0,5,7,2
+2019-10-09 20:44:06,Matematyka,Biologia,Jezyk angielski,90,80,90,0,0,7,4,5
+2019-10-09 20:44:12,Biologia,Polski,Jezyk angielski,85,90,100,1,1,5,6,4
+2019-10-09 20:44:21,Matematyka,Jezyk angielski,Geografia,80,95,50,1,0,8,6,3
+2019-10-09 20:44:21,Historia,Polski,Jezyk angielski,70,90,100,0,0,3,5,4
+2019-10-09 20:44:23,Matematyka,Jezyk obcy inny niz angielski,Geografia,65,40,60,0,0,4,6,3
+2019-10-09 20:44:29,Geografia,Jezyk angielski,Polski,70,70,60,3,0,9,6,6
+2019-10-09 20:44:44,Matematyka,Fizyka,Jezyk angielski,80,80,100,0,0,6,6,1
+2019-10-09 20:45:10,Matematyka,Geografia,Jezyk angielski,50,70,90,2,0,1,7,1
+2019-10-09 20:46:08,Biologia,Chemia,Jezyk angielski,40,40,50,1,0,2,8,3
+2019-10-09 20:46:16,Matematyka,Geografia,Jezyk angielski,40-50%,85-90%,75-85%,1,0,8,6,4
+2019-10-09 20:46:24,Polski,Historia,Jezyk angielski,80%,70%,90%,4,2,10,4,2
+2019-10-09 20:46:33,Jezyk angielski,,,100,,,1,0,8,6,3
+2019-10-09 20:46:45,Polski,Jezyk angielski,Geografia,85%,90%,85%,1,1,5,6,2
+2019-10-09 20:46:48,Polski,Historia,Jezyk angielski,80-100,80-100,90-100,1,1,9,6,1
+2019-10-09 20:48:45,Matematyka,Geografia,Jezyk angielski,70%,70/80%,80/100%,2,0,5,6,5
+2019-10-09 20:50:11,Matematyka,Jezyk angielski,Geografia,70,90,60,1,0,7,5,3
+2019-10-09 20:50:26,Biologia,Polski,Jezyk angielski,50-100,80-100,90-100,0,0,8,5,6
+2019-10-09 20:50:43,Biologia,Chemia,Jezyk angielski,80%,80%,100%,0,0,8,5,3
+2019-10-09 20:50:47,Matematyka,Fizyka,Jezyk angielski,6,6,7,0,0,7,7,10
+2019-10-09 20:51:04,Wos,,,30,,,1,0,8,7,1
+2019-10-09 20:51:58,Geografia,Jezyk angielski,,60-80%,80-100%,,2,2,10,6,3
+2019-10-09 20:52:38,Matematyka,Biologia,Jezyk angielski,50-70,50-70,50-70,2,0,10,5,10
+2019-10-09 20:53:35,Matematyka,Fizyka,Jezyk angielski,80%,70%,100%,2,0,8,6,2
+2019-10-09 20:54:14,Biologia,Chemia,Jezyk angielski,6,6,6,2,0,8,5,5
+2019-10-09 20:56:02,Biologia,Chemia,Jezyk angielski,80-90%,80-90%,80-90%,2,0,10,5,9
+2019-10-09 20:56:42,Matematyka,Fizyka,Jezyk angielski,80,60,60,1,0,3,8,1
+2019-10-09 20:58:03,Biologia,Chemia,Matematyka,100,100,100,0,0,8,7,4
+2019-10-09 21:05:42,Matematyka,Geografia,Jezyk angielski,70%,80%,85%,1,0,6,5,3
+2019-10-09 21:06:42,Matematyka,Biologia,Polski,80+,80+,80+,1,1,6,6,3
+2019-10-09 21:11:33,Fizyka,Matematyka,Jezyk angielski,70,80,95,0,0,7,6,3
+2019-10-09 21:12:59,Matematyka,Fizyka,Jezyk angielski,80,80,100,1,0,4,6,2
+2019-10-09 21:24:31,Biologia,Chemia,Jezyk angielski,90%,70-80%,90%,0,1,5,7,2
+2019-10-09 21:25:17,Jezyk angielski,Polski,Historia,6,6,5,1,0,10,6,2
+2019-10-09 21:30:01,Matematyka,Geografia,Jezyk angielski,70,70,95,1,0,6,6,3
+2019-10-09 21:33:37,Geografia,Matematyka,Jezyk angielski,80%,80%,97%,1,0,2,7,3
+2019-10-09 21:43:14,Matematyka,Jezyk angielski,,60-70,50-60,,0,1,7,7,2
+2019-10-09 21:45:05,Matematyka,Fizyka,Jezyk angielski,90%,90%,100%,2,0,6,6,4
+2019-10-09 21:49:52,Jezyk angielski,,,80%,,,0,1,10,6,1
+2019-10-09 21:50:48,Matematyka,Fizyka,Jezyk angielski,5,4,5,2,0,5,6,7
+2019-10-09 22:02:49,Matematyka,Informatyka,Jezyk angielski,70,60,70,1,0,6,7,1
+2019-10-09 22:09:26,Polski,Jezyk angielski,,80%,80%,,0,0,9,6,4
+2019-10-09 22:09:44,Wos,Historia,Polski,5,5,6,2,0,6,6,6
+2019-10-09 22:18:40,Matematyka,Biologia,Chemia,70%,80%,80%,2,0,6,4,4
+2019-10-09 22:44:09,Historia,Polski,Jezyk angielski,70%,80%,100%,2,1,10,3,5
+2019-10-09 23:19:47,Matematyka,Biologia,Jezyk angielski,90,60,80,0,0,4,8,4
+2019-10-09 23:35:31,Polski,Jezyk angielski,,75,100,,4,0,8,5,1
+2019-10-10 00:07:29,Matematyka,Jezyk angielski,Geografia,50%,85%,70%,2,0,6,6,2
+2019-10-10 00:14:34,Historia,Polski,Jezyk obcy inny niz angielski,80%,100%,90%,2,4,10,2,10
+2019-10-10 00:24:35,Polski,Jezyk angielski,Geografia,50%,80%,30%,0,0,4,7,3
+2019-10-10 00:53:41,Historia,Geografia,Jezyk angielski,70,70,70,1,1,5,5,3
+2019-10-10 06:27:04,Matematyka,Fizyka,Jezyk angielski,80,80,90,0,0,6,8,5
+2019-10-10 06:58:31,Matematyka,Jezyk angielski,Geografia,90,90,90,0,0,7,6,1
+2019-10-10 07:07:19,Biologia,Jezyk angielski,Matematyka,70,70,60,2,0,7,4,5
+2019-10-10 07:25:20,Polski,Jezyk angielski,Jezyk obcy inny niz angielski,75,90,75,1,1,8,5,4
+2019-10-10 07:53:45,Matematyka,Fizyka,Jezyk angielski,80%,50%,100%,1,2,7,4,1
+2019-10-10 13:33:25,Matematyka,Fizyka,Chemia,80-90,60-70,80,0,0,3,7,2
+2019-10-10 16:16:09,Matematyka,Informatyka,,100,60,,0,0,1,7,1
+2019-10-10 18:46:30,Matematyka,Fizyka,Polski,100%,70%,80%,1,0,2,7,4
+2019-10-10 19:53:09,Geografia,Matematyka,Fizyka,90,20,10,0,0,3,8,2
