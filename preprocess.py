@@ -43,12 +43,20 @@ def get_rid_of_scores_lower_than_10(x):  # some inputs were like '5',I assume it
             return x
     else:
         return x
-
+def get_rid_of_and_more(x):
+    if x == '5 lub wiecej':
+        x = 5
+        return x
+    else:
+        return x
 
 for i in range(1, 4):
     df['score_' + str(i)] = df.apply(lambda row: get_rid_of_percent_symbol(row['score_' + str(i)]), axis=1)
     df['score_' + str(i)] = df.apply(lambda row: get_rid_of_ranges(row['score_' + str(i)]), axis=1)
     df['score_' + str(i)] = df.apply(lambda row: get_rid_of_scores_lower_than_10(row['score_' + str(i)]), axis=1)
 
+
+df['coffees'] = df.apply(lambda row: get_rid_of_and_more(row['coffees']), axis=1)
+df['energy_drinks'] = df.apply(lambda row: get_rid_of_and_more(row['energy_drinks']), axis=1)
 
 df.to_csv('preprocesseddata.csv', index=False, sep=',', encoding='utf-8')
