@@ -3,30 +3,11 @@ from tensorflow import keras
 from sklearn.preprocessing import StandardScaler
 
 
-df = pd.read_csv('preprocesseddata.csv')
+train = pd.read_csv('preprocesseddata.csv')
 
-ss = StandardScaler()
+targets = pd.read_csv('targets.csv')
 
-subjects = df[['subject_1',
-               'subject_2',
-               'subject_3']]
 
-subjects = pd.get_dummies(subjects)   # making 'subjects' dataframe one-hot encoded
-
-features = df[['score_1',   # defining features of the dataset
-               'score_2',
-               'score_3',
-               'coffees',
-               'energy_drinks',
-               'hours_of_sleep',
-               'study_time']]
-
-scaled_features = ss.fit_transform(features)   # scaling the features
-scaled_features_df = pd.DataFrame(scaled_features, index=features.index, columns=features.columns)
-targets = df[['stress_level']]  # declaring targets
-
-# merging subjects dataframe with features dataframe
-train = pd.concat([subjects, features], axis=1, sort=False, ignore_index=True)
 # declaring our NN model
 model = keras.Sequential([
     keras.layers.Dense(39, kernel_initializer='normal', input_dim=40, activation='relu'),

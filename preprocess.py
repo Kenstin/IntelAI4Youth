@@ -1,5 +1,5 @@
 import pandas as pd
-
+from sklearn.preprocessing import StandardScaler
 df = pd.read_csv("googledata.csv")
 
 df = df[['subject_1',
@@ -69,4 +69,28 @@ for i in range(1, 4):
 df['coffees'] = df.apply(lambda row: get_rid_of_and_more(row['coffees']), axis=1)
 df['energy_drinks'] = df.apply(lambda row: get_rid_of_and_more(row['energy_drinks']), axis=1)
 
-df.to_csv('preprocesseddata.csv', index=False, sep=',', encoding='utf-8')
+ss = StandardScaler()
+
+subjects = df[['subject_1',
+               'subject_2',
+               'subject_3']]
+
+subjects = pd.get_dummies(subjects)   # making 'subjects' dataframe one-hot encoded
+
+features = df[['score_1',   # defining features of the dataset
+               'score_2',
+               'score_3',
+               'coffees',
+               'energy_drinks',
+               'hours_of_sleep',
+               'study_time']]
+
+scaled_features = ss.fit_transform(features)   # scaling the features
+scaled_features_df = pd.DataFrame(scaled_features, index=features.index, columns=features.columns)
+targets = df[['stress_level']]  # declaring targets
+
+# merging subjects dataframe with features dataframe
+train = pd.concat([subjects, features], axis=1, sort=False, ignore_index=True)
+
+train.to_csv('preprocesseddata.csv', index=False, sep=',', encoding='utf-8')
+targets.to_csv('targets.csv', index=False, sep=',', encoding='utf-8')
