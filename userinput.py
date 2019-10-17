@@ -35,13 +35,14 @@ subjects = {
 
 df[subjects[sys.argv[0]]] = 1
 if sys.argv[1] != 0:
-    df[subjects[sys.argv[1]]] = 1
+    df[subjects[sys.argv[1]] + 11] = 1
 
 if sys.argv[2] != 0:
-    df[subjects[sys.argv[2]]] = 1
+    df[subjects[sys.argv[2]] + 22] = 1
 
 
 for i in range(3, 10):
     df[30+i] = sys.argv[i]
 
-model.predict(df)
+prediction = model.predict(df)
+print(prediction)
