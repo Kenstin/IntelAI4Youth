@@ -26,8 +26,8 @@ subjects = {
     'Historia': 5,
     'Polski': 6,
     'Wos': 7,
-    'Jezyk obcy inny niz angielski': 8,
-    'Jezyk angielski': 9,
+    'Jezyk_obcy': 8,
+    'Jezyk_angielski': 9,
     'Geografia': 10,
 }
 
