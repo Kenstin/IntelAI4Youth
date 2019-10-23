@@ -13,3 +13,5 @@ userinput.py should be initialized with following arguments:
 8. Number of energy drinks
 9. Sleep hours
 10. Studying hours
+
+#Make sure to open userinput.py in  a directory that does not contain any special characters
