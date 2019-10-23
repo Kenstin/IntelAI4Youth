@@ -15,9 +15,7 @@ model.load_weights('Weights-025--1.94244.hdf5')
 
 df = pd.DataFrame(np.zeros((1, 40)))
 
-userinput = sys.argv
-
-userinput.pop(0)
+sys.argv.pop(0)
 
 subjects = {
     'Matematyka': 0,
