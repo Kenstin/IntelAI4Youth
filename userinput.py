@@ -2,6 +2,11 @@ from tensorflow import keras
 import sys
 import pandas as pd
 import numpy as np
+import os
+
+directory = os.path.dirname(os.path.realpath(sys.argv[0]))
+
+d = os.path.join(directory, 'Weights-025--1.94244.hdf5')
 
 model = keras.Sequential([
     keras.layers.Dense(39, kernel_initializer='normal', input_dim=40, activation='relu'),
@@ -9,8 +14,11 @@ model = keras.Sequential([
     keras.layers.Dense(256, kernel_initializer='normal', activation='relu'),
     keras.layers.Dense(1, kernel_initializer='normal')
 ])
+print(d)
 
-model.load_weights('Weights-025--1.94244.hdf5')
+model.compile(optimizer='Adam', loss='mean_absolute_error')
+
+model.load_weights(d)
 
 
 df = pd.DataFrame(np.zeros((1, 40)))
