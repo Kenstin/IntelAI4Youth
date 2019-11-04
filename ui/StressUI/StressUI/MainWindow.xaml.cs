@@ -1,5 +1,4 @@
-﻿using System.Reactive.Disposables;
-using ReactiveUI;
+﻿using ReactiveUI;
 
 namespace StressUI
 {

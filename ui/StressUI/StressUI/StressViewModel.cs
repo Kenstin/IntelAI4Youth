@@ -3,10 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Reactive;
 using System.Reactive.Linq;
-using System.Reflection.Emit;
-using System.Threading;
 using System.Windows.Forms;
-using DynamicData;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
 
@@ -29,22 +26,22 @@ namespace StressUI
         public int Subject1Score { get; set; }
         
         [Reactive]
-        public int Subject2Score { get; set; }
+        public int Subject2Score { get; set; } 
 
         [Reactive]
         public int Subject3Score { get; set; }
-        
+
         [Reactive]
-        public int Coffee { get; set; }
+        public int Coffee { get; set; } 
 
         [Reactive]
         public int EnergyDrinks { get; set; }
 
         [Reactive]
-        public int SleepHours { get; set; }
+        public int SleepHours { get; set; } = 8;
 
         [Reactive]
-        public int StudyHours { get; set; }
+        public int StudyHours { get; set; } = 0;
 
         public bool Subject1ScoreButtonEnabled { [ObservableAsProperty] get;  }
         public bool Subject2ScoreButtonEnabled { [ObservableAsProperty] get;  }
@@ -63,20 +60,30 @@ namespace StressUI
                 .ToPropertyEx(this, x => x.ButtonEnabled);
 
             this.WhenAnyValue(x => x.SelectedSubject1)
+                .Skip(1)
+                .Do(_ => Subject1Score = Subject1Score == 0 ? 10 : Subject1Score)
                 .Select(x => x != null)
                 .ToPropertyEx(this, x => x.Subject1ScoreButtonEnabled);
 
             this.WhenAnyValue(x => x.SelectedSubject2)
+                .Skip(1)
+                .Do(_ => Subject2Score = Subject2Score == 0 ? 10 : Subject2Score)
                 .Select(x => x != null)
                 .ToPropertyEx(this, x => x.Subject2ScoreButtonEnabled);
 
             this.WhenAnyValue(x => x.SelectedSubject3)
+                .Skip(1)
+                .Do(_ => Subject3Score = Subject3Score == 0 ? 10 : Subject3Score)
                 .Select(x => x != null)
                 .ToPropertyEx(this, x => x.Subject3ScoreButtonEnabled);
 
             var currentDirectory = Directory.GetCurrentDirectory() + "/userinput.py";
-            CalculateStress = ReactiveCommand.Create(() => MessageBox.Show(RunCmd(currentDirectory,
-                $"{SelectedSubject1} {SelectedSubject2 ?? "0"} {SelectedSubject2 ?? "0"} {Subject1Score} {Subject2Score} {Subject3Score} {Coffee} {EnergyDrinks} {SleepHours} {StudyHours}")));
+            CalculateStress = ReactiveCommand.Create(() =>
+            {
+                var command =
+                    $"{SelectedSubject1.SpacesToFloor()} {SelectedSubject2?.SpacesToFloor() ?? "0"} {SelectedSubject3?.SpacesToFloor() ?? "0"} {Subject1Score} {Subject2Score} {Subject3Score} {Coffee} {EnergyDrinks} {SleepHours} {StudyHours}";
+                return MessageBox.Show("Wynik: " + RunCmd(currentDirectory, command));
+            });
         }
 
         public string RunCmd(string cmd, string args)

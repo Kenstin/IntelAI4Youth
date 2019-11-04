@@ -14,8 +14,8 @@ namespace StressUI
             "Historia",
             "Polski",
             "Wos",
-            "Jezyk_obcy",
-            "Jezyk_angielski",
+            "Jezyk obcy",
+            "Jezyk angielski",
             "Geografia"
         };
     }
