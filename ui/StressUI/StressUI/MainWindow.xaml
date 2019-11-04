@@ -1,0 +1,31 @@
+﻿<reactiveUi:ReactiveWindow x:TypeArguments="local:StressViewModel" x:Class="StressUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StressUI"
+        xmlns:reactiveUi="http://reactiveui.net"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Mhatura" Height="400" Width="600">
+    <Grid>
+        <ComboBox Name="Subject1" DisplayMemberPath="." HorizontalAlignment="Left" Margin="130,38,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox Name="Subject2" DisplayMemberPath="." HorizontalAlignment="Left" Margin="291,38,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox Name="Subject3" DisplayMemberPath="." HorizontalAlignment="Left" Margin="450,38,0,0" VerticalAlignment="Top" Width="120"/>
+        <xctk:IntegerUpDown Name="Subject1Score" HorizontalAlignment="Left" Height="23" Margin="130,79,0,0" VerticalAlignment="Top" Width="120" Minimum="10" Maximum="100"/>
+        <xctk:IntegerUpDown Name="Subject3Score" HorizontalAlignment="Left" Height="23" Margin="450,79,0,0" VerticalAlignment="Top" Width="120" Minimum="10" Maximum="100"/>
+        <xctk:IntegerUpDown Name="Subject2Score" HorizontalAlignment="Left" Height="23" Margin="291,79,0,0" VerticalAlignment="Top" Width="120" Minimum="10" Maximum="100"/>
+
+        <xctk:IntegerUpDown Text="1" DefaultValue="1" Name="SleepHours" HorizontalAlignment="Left" Height="23" Margin="228,204,0,0" VerticalAlignment="Top" Width="120" Minimum="1" Maximum="10"/>
+        <xctk:IntegerUpDown Text="0" DefaultValue="0" Name="StudyHours" HorizontalAlignment="Left" Height="23" Margin="228,232,0,0" VerticalAlignment="Top" Width="120" Minimum="0" Maximum="10"/>
+        <xctk:IntegerUpDown Text="0" DefaultValue="0" Name="Coffee" HorizontalAlignment="Left" Height="23" Margin="228,148,0,0" VerticalAlignment="Top" Width="120" Minimum="0" Maximum="5"/>
+        <xctk:IntegerUpDown Text="0" DefaultValue="0" Name="EnergyDrinks" HorizontalAlignment="Left" Height="23" Margin="228,176,0,0" VerticalAlignment="Top" Width="120" Minimum="0" Maximum="5"/>
+        <Button Name="Calculate" Content="Oblicz poziom stresu" HorizontalAlignment="Left" Margin="213,281,0,0" VerticalAlignment="Top" Width="148" Height="60"/>
+        <Label Content="Coffee cups daily" HorizontalAlignment="Left" Margin="120,147,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Energy drinks daily" HorizontalAlignment="Left" Margin="109,175,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label Content="Sleep hours daily" HorizontalAlignment="Left" Margin="120,201,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Study hours daily" HorizontalAlignment="Left" Margin="120,227,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Subject" HorizontalAlignment="Left" Margin="56,38,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="0.852,0.577"/>
+        <Label Content="Percentage" HorizontalAlignment="Left" Margin="56,76,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</reactiveUi:ReactiveWindow>
