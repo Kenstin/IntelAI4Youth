@@ -6,17 +6,16 @@ import os
 
 directory = os.path.dirname(os.path.realpath(sys.argv[0]))
 
-d = os.path.join(directory, 'Weights-025--1.94244.hdf5')
+d = os.path.join(directory, 'Weights-035--0.18753.hdf5')
 
 model = keras.Sequential([
     keras.layers.Dense(39, kernel_initializer='normal', input_dim=40, activation='relu'),
-    keras.layers.Dense(256, kernel_initializer='normal', activation='relu'),
-    keras.layers.Dense(256, kernel_initializer='normal', activation='relu'),
+    keras.layers.Dense(512, kernel_initializer='normal', activation='relu'),
     keras.layers.Dense(1, kernel_initializer='normal')
 ])
 print(d)
 
-model.compile(optimizer='Adam', loss='mean_absolute_error')
+model.compile(optimizer='Adam', loss='mean_squared_logarithmic_error')
 
 model.load_weights(d)
 
@@ -40,10 +39,11 @@ subjects = {
 }
 
 df[subjects[sys.argv[0]]] = 1
-if sys.argv[1] != 0:
+
+if sys.argv[1] != '0':
     df[subjects[sys.argv[1]] + 11] = 1
 
-if sys.argv[2] != 0:
+if sys.argv[2] != '0':
     df[subjects[sys.argv[2]] + 22] = 1
 
 
