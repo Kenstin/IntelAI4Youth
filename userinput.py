@@ -40,10 +40,11 @@ subjects = {
 }
 
 df[subjects[sys.argv[0]]] = 1
-if sys.argv[1] != 0:
+
+if sys.argv[1] != '0':
     df[subjects[sys.argv[1]] + 11] = 1
 
-if sys.argv[2] != 0:
+if sys.argv[2] != '0':
     df[subjects[sys.argv[2]] + 22] = 1
 
 
